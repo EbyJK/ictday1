@@ -1,0 +1,39 @@
+h4{
+color:aquamarine;
+
+}
+.box1{
+    border: 2px solid red; 
+    margin-left:30%;
+    margin-right: 30%;
+    margin-top:2px;
+    margin-bottom:5%;
+    margin:10%;
+    padding: 3% 35% 3% 35%;
+
+}
+
+.login{
+    
+    margin : 5% 40% 40% 30%;
+    padding:  10% 20% 30% 10%;
+    background-color: pink;
+    border-radius: 0.5em;
+
+}
+.heading{
+    text-align:justify;
+    text-justify:inter-word;
+    color:purple;
+}
+body{
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg");
+    
+}
+.box2{
+    background-color: white;
+    border-radius:0.5em;
+}
+.button{
+    background-color: white;
+}
